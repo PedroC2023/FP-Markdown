@@ -1,0 +1,1 @@
+Site created for learning how to use Markdown in writing and documentation
